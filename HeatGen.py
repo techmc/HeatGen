@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  heatmap_generator.py
+#  HeatGen.py
 #  
 #  Copyright 2013 Zassa Kavuma
 #  
